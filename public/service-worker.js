@@ -5,7 +5,7 @@ const CACHE_NAME = 'geoguardian-cache-v2';
 const ASSETS_TO_CACHE = [
   '/',
   '/index.html',
-  '/manifest.json'
+  
 ];
 
 // 安装阶段：缓存基础文件
